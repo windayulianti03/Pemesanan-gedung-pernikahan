@@ -1,6 +1,5 @@
 nama aplikasi : Sewa Gedung Pernikahan Online
 deskripsi : booking tempat untuk pernikahan yang instan 
 fitur : halaman login, filter untuk memilih gedung pernikahan yang akan di booking, memilih tanggal booking dan bayar via qris, melihat booking yang sudah dipesan 
-cara menjalankan : extrack zip, tambahkan/import database, jalankan backend dan frontend
+cara menjalankan : extrack zip, tambahkan/import database, jalankan backend dan frontend![WhatsApp Image 2025-12-13 at 2 47 08 AM](https://github.com/user-attachments/assets/a55104e9-ebf6-4e00-b7a9-82c0214b395b)
 
-![Uploading 24149e23-8ac2-418d-bcb2-809bdd4bbacf.jpg…]()
